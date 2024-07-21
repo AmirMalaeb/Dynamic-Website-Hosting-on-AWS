@@ -38,6 +38,9 @@ The deployment of this infrastructure is automated using scripts and configurati
 4. Access the website using the registered domain name.
 
 
+![Alt text] (3 Tier Architecture.jpg)
+
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
