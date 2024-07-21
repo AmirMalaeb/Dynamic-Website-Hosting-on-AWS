@@ -1,4 +1,4 @@
-![Alt text](3 Tier Architecture.jpg)
+![Alt text](Dynamic-Website-Hosting-on-AWS/3 Tier Architecture.jpg)
 ----
 # Dynamic Website Hosting on AWS
 
