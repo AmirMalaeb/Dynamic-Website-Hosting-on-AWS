@@ -1,6 +1,6 @@
 #!/bin/bash
 
-S3_URI=s3://amir-project-sql-files/V1__shopwise.sql
+S3_URI=s3://yourbucket/V1__shopwise.sql
 RDS_ENDPOINT=your endpoint
 RDS_DB_NAME=your db name
 RDS_DB_USERNAME=db username
